@@ -24,6 +24,6 @@ I am currently participating in programming marathons and studying devops becaus
 
 [![brenohof's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenohof&theme=dark)](https://github.com/brenohof/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenohof&layout=compact&theme=dark)](https://github.com/brenohof/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenohof&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=brenohof&layout=compact&theme=dark)
 
 - Thanks for visiting.
